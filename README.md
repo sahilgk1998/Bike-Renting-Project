@@ -1,0 +1,2 @@
+# Bike-Renting-Project
+In this project Iam going to model the Bike Sharing Dataset from the Capital Bikeshare System using regression modeling and learn how variables such as temperature, wind, and time affect bicycle rentals in the mid-Atlantic region of the United States. Here I'll be building a simple way of interacting with environment factors such as temperature, wind, time and weather and analyse how they effect the bike rentals.Also by doing a good Data Analysis and Visualization using a beautiful Python library Plotly.
